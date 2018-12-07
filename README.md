@@ -10,6 +10,6 @@ Study materials of Optics
 * [iBiology Microscopy Short Course](https://www.youtube.com/watch?v=4c5ILWQmqRY&list=PLQFc-Dxlf4pSRaEk8Xi9BzS0r8-LYmwRQ)
 
 ## Fluorescence microscopy basics
-* Fluorescence microscopy
-* [Fluorescence_microscope](https://en.wikipedia.org/wiki/Fluorescence_microscope)
+* [Wikipedia: Fluorescence_microscope](https://en.wikipedia.org/wiki/Fluorescence_microscope)
 * [Microscopy: Introduction to Fluorescence Microscopy (Nico Stuurman)](https://www.youtube.com/watch?v=AhzhOzgYoqw&start_radio=1&list=RDAhzhOzgYoqw)
+* [Leica microsystems](https://www.leica-microsystems.com/applications/life-science/fluorescence/) Life science application
