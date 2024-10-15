@@ -6,7 +6,7 @@ Study materials of Optics
 * [Optics lecture, MIT](https://ocw.mit.edu/courses/mechanical-engineering/2-71-optics-spring-2009/)
 * [The Feynman Lectures on Physics, Volume I - Chapter 27. Geometrical Optics](http://www.feynmanlectures.caltech.edu/I_27.html)
 
-## Optics basics
+## Fourier Optics: A MATLAB Tutorial
 * [Computational Fourier Optics: A MATLAB Tutorial](https://doi.org/10.1117/3.858456) by David G. Voelz
 
 ## Microscopy Course
